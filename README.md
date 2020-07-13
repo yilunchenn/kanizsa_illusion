@@ -7,4 +7,4 @@ Here are some images about the model structure:
 
 ![model](model.jpg)
 
-![structure](model_structure.jpg)
+![structure](structure.jpg)
